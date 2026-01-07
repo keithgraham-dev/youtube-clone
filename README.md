@@ -1,64 +1,87 @@
-# YouTube Clone (HTML & CSS)
+YouTube Clone (HTML & CSS)
 
-This project is a **YouTube homepage clone** built using **HTML and CSS** as part of my frontend learning journey.
-The goal is to practice real-world layouts, spacing, and UI structure by recreating a familiar interface.
+A front-end YouTube clone built using HTML and CSS, focused on mastering modern layout techniques such as Flexbox and CSS positioning. This project is part of my learning journey in web development and is being improved incrementally.
 
----
+Features
+Fixed Sidebar Navigation
 
-## 🚀 Project Status
+Implemented using position: fixed
 
-🛠 **In Progress**
+Stays visible while scrolling, similar to YouTube’s sidebar
 
-This project is being built incrementally, following a structured HTML & CSS tutorial and updated regularly with new commits as I learn.
+Helps improve user navigation and layout structure
 
----
+Improved Header Layout
 
-## ✅ Completed So Far
+Header redesigned using Flexbox
 
-* Video card / preview layout
-* Thumbnail and text styling
-* **Header section (YouTube-style layout)**
+Proper alignment with justify-content and align-items
 
-  * Logo area
-  * Search bar
-  * Action icons (lesson 13)
+Cleaner spacing and more realistic UI behavior
 
----
+Video Grid Layout
 
-## 📚 Learning Source
+Videos arranged using Flexbox for a responsive layout
 
-Based on lessons from an HTML & CSS course/tutorial:
+Consistent spacing and alignment across video cards
 
-* Tutorial reference: *HTML & CSS Full Course – Beginner to Pro*
+Video Timestamps Overlay
 
----
+Video timestamps created using:
 
-## 🧱 Tech Stack
+position: relative on the video container
 
-* HTML5
-* CSS3
-* Git & GitHub
+position: absolute on the timestamp element
 
----
+Mimics real YouTube video duration overlays
 
-## 🎯 Goals for This Project
+Flexbox Layout Refinements
 
-* Recreate a clean, responsive YouTube-style UI
-* Improve CSS layout skills (Flexbox, spacing, alignment)
-* Build a strong frontend portfolio project
-* Prepare for future JavaScript interactivity
+Extensive use of:
 
----
+display: flex
 
-## 🔜 Planned Improvements
+justify-content
 
-* Improve responsiveness
-* Refine spacing and typography
-* Add hover effects and UI polish
-* Introduce JavaScript for interactivity (future phase)
+align-items
 
----
+Improved responsiveness and structure across sections
 
-## 📌 Notes
+Technologies Used
 
-This project is intentionally committed **step-by-step** to show learning progress and development history.
+HTML5
+
+CSS3
+
+Flexbox
+
+Positioning (fixed, relative, absolute)
+
+Learning Goals Demonstrated
+
+Understanding real-world layout behavior
+
+Using CSS positioning correctly and intentionally
+
+Structuring UI components like headers, sidebars, and content grids
+
+Writing cleaner, more maintainable CSS
+
+Project Status
+
+Ongoing
+This project is actively being updated as I learn new concepts. Future improvements may include:
+
+Responsive design for mobile devices
+
+JavaScript interactivity
+
+Improved accessibility
+
+Backend integration (long-term)
+
+Author
+
+Keith Graham
+Aspiring Web Developer | Learning Front-End Development
+GitHub: https://github.com/keithgraham-dev
