@@ -1,87 +1,83 @@
-YouTube Clone (HTML & CSS)
+# YouTube Clone (HTML & CSS)
 
-A front-end YouTube clone built using HTML and CSS, focused on mastering modern layout techniques such as Flexbox and CSS positioning. This project is part of my learning journey in web development and is being improved incrementally.
+A responsive YouTube homepage clone built as a final project after completing my HTML course.  
+This project focuses on layout accuracy, clean structure, and modern CSS positioning techniques.
 
-Features
-Fixed Sidebar Navigation
+JavaScript functionality will be added in future updates.
 
-Implemented using position: fixed
+---
 
-Stays visible while scrolling, similar to YouTube’s sidebar
+## 📌 Features
 
-Helps improve user navigation and layout structure
+- Responsive header with search bar and icons
+- Fixed sidebar navigation
+- Video grid layout similar to YouTube
+- Video thumbnails with timestamps
+- Channel info and metadata display
+- Tooltips for icons and elements
+- Clean, semantic HTML structure
+- Styled using modern CSS (Flexbox & positioning)
 
-Improved Header Layout
+---
 
-Header redesigned using Flexbox
+## 🛠️ Built With
 
-Proper alignment with justify-content and align-items
+- **HTML5**
+- **CSS3**
+  - Flexbox
+  - Positioning (relative, absolute, fixed)
+  - Responsive layout techniques
 
-Cleaner spacing and more realistic UI behavior
+---
 
-Video Grid Layout
+## 📂 Project Status
 
-Videos arranged using Flexbox for a responsive layout
+✅ **HTML/CSS phase complete**  
+🚧 **JavaScript integration planned**
 
-Consistent spacing and alignment across video cards
+Upcoming improvements:
 
-Video Timestamps Overlay
+- Dynamic tooltips
+- Interactive sidebar toggle
+- Video data rendering using JavaScript
+- Improved responsiveness and accessibility
+- Possible backend or API integration later on
 
-Video timestamps created using:
+---
 
-position: relative on the video container
+## 🎯 Purpose of This Project
 
-position: absolute on the timestamp element
+This project was built to:
 
-Mimics real YouTube video duration overlays
+- Practice real-world layout cloning
+- Strengthen understanding of CSS positioning
+- Apply Flexbox in a large UI
+- Build confidence before moving into JavaScript
 
-Flexbox Layout Refinements
+---
 
-Extensive use of:
+## 🚀 Next Steps
 
-display: flex
+- Add JavaScript for interactivity
+- Improve UI/UX behaviors
+- Refactor and optimize code
+- Expand project functionality incrementally
 
-justify-content
+---
 
-align-items
+## 📸 Preview
 
-Improved responsiveness and structure across sections
+_(Optional: Add screenshots of the project here later)_
 
-Technologies Used
+---
 
-HTML5
+## 👤 Author
 
-CSS3
+**Keith Graham**  
+Aspiring Software Engineer & Cybersecurity Enthusiast
 
-Flexbox
+---
 
-Positioning (fixed, relative, absolute)
+## 📄 License
 
-Learning Goals Demonstrated
-
-Understanding real-world layout behavior
-
-Using CSS positioning correctly and intentionally
-
-Structuring UI components like headers, sidebars, and content grids
-
-Writing cleaner, more maintainable CSS
-
-Project Status
-
-Ongoing
-This project is actively being updated as I learn new concepts. Future improvements may include:
-
-Responsive design for mobile devices
-
-JavaScript interactivity
-
-Improved accessibility
-
-Backend integration (long-term)
-
-Author
-
-Keith Graham
-Aspiring Web Developer | Learning Front-End Development
-GitHub: https://github.com/keithgraham-dev
+This project is for educational purposes.
